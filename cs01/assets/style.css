@@ -1,0 +1,12 @@
+/*Este es un selector de etiqueta*/
+body
+{
+    background-image: url("../assets/img/Fondo-pintado.jpg");
+    font-family: sans-serif;
+}
+
+h1
+{
+    color: aquamarine;
+    text-align: center;
+}
